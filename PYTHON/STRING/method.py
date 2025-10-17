@@ -1,3 +1,5 @@
+# note : String functions return new value and uses str object to access string functions
+
 str = "this is string example"
 
 print("capitalize     :", str.capitalize())       # Capitalizes first letter
